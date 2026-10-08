@@ -16,7 +16,8 @@ Yes. The Large Single-Copy (LSC) region forms the largest continuous section of 
 3. rbcL
 
 **5. Give at least one example of a gene located in the SSC region.**
-ndhF (NADH dehydrogenase subunit F).
+
+•ndhF (NADH dehydrogenase subunit F).
 
 **6. Give at least one example of a gene that occurs within an inverted repeat region. Is the gene shown more than once because of the duplicated IR regions?**
 rrn16 (16S ribosomal RNA). Yes, it is shown more than once on the map because the inverted repeat regions are identical, duplicated segments of DNA situated on opposite sides of the genome.
