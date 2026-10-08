@@ -26,6 +26,8 @@
 
 ![Solanum lycopersicum chloroplast genome](figure/Solanum_lycopersicum_plastid_map.md)
 
+<img width="10000" height="10000" alt="34336" src="https://github.com/user-attachments/assets/9b1a11ef-c47c-482e-a6bb-3403976961ac" />
+
 ## Structural Description
 
 The chloroplast genome of *Solanum lycopersicum* spans 155,461 bp and displays the classic angiosperm quadripartite structure. It consists of a Large Single-Copy (LSC) region and a Small Single-Copy (SSC) region separated by two symmetrical Inverted Repeat (IRa and IRb) regions. The map highlights functional gene clusters—including photosystem components, ATP synthases, and ribosomal proteins—alongside distinct regional variations in GC content highlighted in the inner graph.
