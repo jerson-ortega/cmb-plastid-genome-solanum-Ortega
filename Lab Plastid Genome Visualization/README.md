@@ -24,7 +24,7 @@
 
 ## Plastid Genome Map
 
-![Solanum lycopersicum chloroplast genome](figures/Solanum_lycopersicum_plastid_map.png)
+![Solanum lycopersicum chloroplast genome](figure/Solanumlycopersicum_plastid_map.png)
 
 ## Structural Description
 
