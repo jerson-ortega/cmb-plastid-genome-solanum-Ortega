@@ -1,0 +1,12 @@
+| Gene Group | Gene Count | Genes Found |
+| :--- | :--- | :--- |
+| **Photosystem I & II Genes** | 20 | `psbA`, `psbB`, `psbC`, `psbD`, `psbE`, `psaA`, `psaB` |
+| **ATP Synthase Genes** | 6 | `atpA`, `atpF`, `atpH`, `atpI`, `atpE`, `atpB` |
+| **Cytochrome b6f Genes** | 6 | `petN`, `petA`, `petL`, `petG`, `petB`, `petD` |
+| **Rubisco Subunit** | 1 | `rbcL` |
+| **RNA Polymerase Genes** | 4 | `rpoC2`, `rpoC1`, `rpoB`, `rpoA` |
+| **Ribosomal Protein Genes** | 21 | `rps16`, `rps2`, `rpl33`, `rps14`, `rpl20`, `rpl14` |
+| **RNA Genes (tRNA & rRNA)** | 4 (rRNA); 30 (tRNA) | `rrn16`, `rrn23`, `trnK-UUU`, `trnH-GUG`, `trnQ-UUG` |
+| **Other Conserved Plastid Genes** | 7 | `matK`, `clpP`, `accD`, `cemA`, `ycf3`, `ycf4`, `ycf1` |
+
+Note: Total gene count within the table doesn't account for NADH oxidoreductase and orf gene families since it's not included in the genes to focused with.
